@@ -22,3 +22,8 @@ Using tableau I created 7 different visulizations using the total number of trip
 4
 ![Screenshot (265)](https://user-images.githubusercontent.com/100504550/179341820-c637e91a-920c-4332-8f4e-a2b15154d773.png)
 
+5
+![Screenshot (266)](https://user-images.githubusercontent.com/100504550/179342038-2253d852-49b7-4b32-9889-7fb019c2687d.png)
+6
+![Screenshot (267)](https://user-images.githubusercontent.com/100504550/179342074-b5a25d75-cdf6-4972-aeff-10183e1926eb.png)
+
