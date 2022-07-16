@@ -28,4 +28,10 @@ Using tableau I created 7 different visulizations using the total number of trip
 ## Trips by User Type and Gender
 ![Screenshot (267)](https://user-images.githubusercontent.com/100504550/179342772-9f1bf812-d5ef-4745-9e1c-66b2df9f0d0d.png)
 
+# Summary 
+In NYC August month has high peak riding hours that is from from 5pm to 7pm.Based on this bar chart maintainance can be performed from 2am to 5am. From graph analysis shows Males subscribers are the highest users and follow high use time.
 
+Additional analysis would be beneficial by :
+* comparing data for different months to determine trends across the year.
+* including weather data to find the correlation between the weather and the rides.
+* create a pie chart that showed the amount of rides taken by users of various age group demographics. 
